@@ -1,0 +1,11 @@
+﻿id_producto,nombre_producto,categoria,precio_unitario
+P001,Portátil,Computo,3200000
+P002,Mouse,Accesorios,45000
+P003,Teclado,Accesorios,120000
+P004,"Monitor 24""",Computo,780000
+P005,Audífonos,Audio,150000
+P006,Impresora,Oficina,650000
+P007,Tablet,Computo,1400000
+P008,Disco SSD 1TB,Almacenamiento,380000
+P009,Cámara Web,Accesorios,95000
+P010,Router WiFi,Redes,210000

@@ -1,0 +1,16 @@
+﻿id_cliente,nombre_cliente,email,ciudad,fecha_registro
+1,Ana Gómez,ana1@correo.com,Bogotá,2024-01-24
+2,Luis Pérez,luis2@correo.com,Cali,2024-04-08
+3,María Rodríguez,maría3@correo.com,Medellín,2024-12-04
+4,Carlos López,sin_email@desconocido.com,Bogotá,2024-02-19
+5,Laura Martínez,laura5@correo.com,Bucaramanga,2024-01-01
+6,Jorge Ramírez,jorge6@correo.com,Bogotá,2024-04-08
+7,Sofía Torres,sofía7@correo.com,Bogotá,2024-10-01
+8,Andrés Díaz,andrés8@correo.com,Bogotá,2024-04-23
+9,Valentina Ruiz,valentina9@correo.com,Bogotá,2024-07-08
+10,Felipe Castro,felipe10@correo.com,Cartagena,2024-10-09
+11,Camila Herrera,sin_email@desconocido.com,Bogotá,2024-03-23
+12,Santiago Moreno,santiago12@correo.com,Bucaramanga,2024-06-09
+13,Daniela Rojas,daniela13@correo.com,Medellín,2024-04-25
+14,Juan Vargas,juan14@correo.com,Barranquilla,2024-02-03
+15,Paula Ortiz,paula15@correo.com,Bucaramanga,2024-02-12

@@ -1,0 +1,13 @@
+id_venta,fecha_devolucion,motivo
+1,2025-02-10,Producto defectuoso
+5,15/03/2025,Pedido incorrecto
+12,2025-04-05,Producto defectuoso
+18,2025-04-20,Cambio de producto
+25,2025-05-11,Producto incompleto
+32,2025-06-02,Pedido incorrecto
+40,2025-06-18,Cambio de producto
+48,2025-07-09,Producto defectuoso
+55,2025-08-14,Producto incompleto
+63,FECHA_INVALIDA,Pedido incorrecto
+70,2025-10-05,Cambio de producto
+82,2025-11-12,Producto defectuoso
